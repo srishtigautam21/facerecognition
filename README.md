@@ -1,6 +1,6 @@
 ## Face recognition + Attendence Project
  ### General Info
- This is a simple Face recognitin project which can be used for marking attendence.The project has been built with OpenCv and face_recognition using deeplearning and computer vision concepts in order to detect famous faces like Bill gates, Jack Ma, Jeff Bezoz,Chad Smith and Will Ferrel.The dataset can be easily increased to recognize more faces.
+ This is a simple Face recognition project which can be used for marking attendance.The project has been built with OpenCv and face_recognition using deeplearning and computer vision concepts in order to detect famous faces like Bill gates, Jack Ma, Jeff Bezoz,Chad Smith and Will Ferrel.The dataset can be easily increased to recognize more faces.
  The faces can be recognized in static images as well as in real time video streams.In addition to this it saves a list of all names recognized in an excel sheet.
  ### Languages used
  Python 3.7
